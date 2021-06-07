@@ -1,1 +1,1 @@
-"# Password-Tester" 
+This program utilizes a finite state machine in order to compare the user's input with the most common passwords used on the internet. The finite state machine will then generate a specific output and generate a secure password that could be used. 
